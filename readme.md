@@ -1,5 +1,5 @@
 
-<H1>>xplainable Artificial Intellience (XAI) </h1>
+<H1>>Explainable Artificial Intellience (XAI) </h1>
 
 
 
