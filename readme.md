@@ -15,7 +15,15 @@ This page provides the infomation about the available state-of-the-art XAI tools
 🐙 Multimodal
 
 
-|Selected XAI Approaches   | Antehoc /Posthoc  | Explaination Methodlogy    | target Audience       | Scope            | Explanation Evaluation  | Target Box   | Data Driven /Knowledge Driven|
+XAI Techniques are of different types.
+Ante-hoc/Post-hoc
+Model Specific/ Model Agnostic
+Surrogate
+:metro: Global/Local
+
+
+
+|Selected XAI Approaches   | Antehoc /Posthoc  | Explaination Methodlogy    | Target Audience       | Scope            | Explanation Evaluation  | Target Box   | Data Driven /Knowledge Driven|
 |-------------:|---------:|---------------:|--------------:|-----------:|------------:|------:|----------:| 
 |     TREPAN   | Posthoc  | Surrogate Model| Domain Experts| Global     | No          | NN    | Data-Driven|
 |     DEEP RED | Posthoc  | Surrogate Model| Domain Experts| Global     | No          | NN    | Data-Driven|
