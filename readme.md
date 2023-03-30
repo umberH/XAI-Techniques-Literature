@@ -1,5 +1,5 @@
 
-<H1>Explainable Artificial Intelligence (XAI) Literature </h1>
+# Explainable Artificial Intelligence (XAI) Literature
 
 This is a continuous initiative aimed at bringing together noteworthy initiatives in the domain of comprehending, interpreting, explaining, and visualizing a pre-trained ML model. 
 
@@ -13,15 +13,24 @@ This page provides the infomation about the available state-of-the-art XAI tools
 🗣️ Audio
 🐙 Multimodal
 
-<H1>Types of XAI Technique </H1>
+# Types of XAI Technique
 XAI Techniques are of different types.
-Ante-hoc/Post-hoc
-Model Specific/ Model Agnostic
-Surrogate
+* Ante-hoc/Post-hoc
+* Model Specific/ Model Agnostic
+* Surrogate
 
 :metro: Global/Local
 
+# List of Surveys in the Literature
+## Systematic Liteature Surveys
+## Meta Surveys
 
+
+# Opportunities in XAI
+
+# Interesting Books on XAI 
+
+# Selected Approaches Analysis
 
 |Selected XAI Approaches   | Antehoc /Posthoc  | Explaination Methodlogy    | Target Audience       | Scope            | Explanation Evaluation  | Target Box   | Data Driven /Knowledge Driven|
 |-------------:|---------:|---------------:|--------------:|-----------:|------------:|------:|----------:| 
