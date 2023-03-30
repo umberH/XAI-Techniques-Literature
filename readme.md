@@ -1,8 +1,7 @@
 
-<H1>>Explainable Artificial Intellience (XAI) </h1>
+<H1>Explainable Artificial Intelligence (XAI) Literature </h1>
 
-
-
+This is a continuous initiative aimed at bringing together noteworthy initiatives in the domain of comprehending, interpreting, explaining, and visualizing a pre-trained ML model. 
 
 State-of-the-art Explainable Artificial Intelligence for Machine Learning Models.
 
