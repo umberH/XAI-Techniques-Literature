@@ -5,7 +5,7 @@ This is a continuous initiative aimed at bringing together noteworthy initiative
 
 State-of-the-art Explainable Artificial Intelligence for Machine Learning Models.
 
-This page provides the infomation about the available state-of-the-art XAI tools comprehensive list. This list can be helpful to understand the available XAI techniques and which domains are using XAI. We need XAI for all the types of the model including but not limited to Neural Network and Deep Neural Networ and for all doamins. XAI is applicable to all the blackbox models which are not transparent to the users. Its is applicable in all domains including but not limited to 
+This page provides the infomation about the available state-of-the-art XAI tools comprehensive list. This list can be helpful to understand the available XAI techniques and which domains are using XAI. We need XAI for all the types of the Machine learning models, the scope of explanations can vary with the models and the domains applicability. XAI is a way to widley adopt the AI in the models  doamins. XAI is applicable to all the blackbox models which are not transparent to the users. Its is applicable in all domains including but not limited to 
 
 
 📝 Natural Language Processing
@@ -18,11 +18,17 @@ XAI Techniques are of different types.
 * Ante-hoc/Post-hoc
 * Model Specific/ Model Agnostic
 * Surrogate
-
-:metro: Global/Local
+* Global/Local
 
 # List of Surveys in the Literature
 ## Systematic Liteature Surveys
+| Paper Title | Domain | year | Link| Publication venue|
+|---|---|---|---|---|
+|Explainable Artificial Intelligence in the Medical Domain: A Systematic Review| Medical Domain |2021||AMCIS|
+|Explainable Artificial Intelligence: a Systematic Review |-|2020|[File](http://arxiv.org/abs/2006.00093)|Not Peer Reviewed|
+|A Systematic Review of Explainable Artificial Intelligence in Terms of Different Application Domains and Tasks|-|2022|[File](https://www.mdpi.com/2076-3417/12/3/1353)|Multidisciplinary Digital Publishing Institute|
+|Towards Human-Centred Explainable AI: A Systematic Literature Review|-|2021|[File]()||
+
 ## Meta Surveys
 
 
