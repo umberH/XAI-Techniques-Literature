@@ -24,7 +24,7 @@ XAI Techniques are of different types.
 ## Systematic Liteature Surveys
 | Paper Title | Domain | year | Link| Publication venue|
 |---|---|---|---|---|
-|Explainable Artificial Intelligence in the Medical Domain: A Systematic Review| Medical Domain |2021||AMCIS|
+|Explainable Artificial Intelligence in the Medical Domain: A Systematic Review| Medical |2021||AMCIS|
 |Explainable Artificial Intelligence: a Systematic Review |-|2020|[File](http://arxiv.org/abs/2006.00093)|Not Peer Reviewed|
 |A Systematic Review of Explainable Artificial Intelligence in Terms of Different Application Domains and Tasks|-|2022|[File](https://www.mdpi.com/2076-3417/12/3/1353)|Multidisciplinary Digital Publishing Institute|
 |Towards Human-Centred Explainable AI: A Systematic Literature Review|-|2021|[File]()||
