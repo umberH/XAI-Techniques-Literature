@@ -13,11 +13,12 @@ This page provides the infomation about the available state-of-the-art XAI tools
 🗣️ Audio
 🐙 Multimodal
 
-
+<H1>Types of XAI Technique </H1>
 XAI Techniques are of different types.
 Ante-hoc/Post-hoc
 Model Specific/ Model Agnostic
 Surrogate
+
 :metro: Global/Local
 
 
