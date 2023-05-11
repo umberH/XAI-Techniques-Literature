@@ -46,3 +46,8 @@ XAI Techniques are of different types.
 | Distilling NN| Posthoc  | Surrogate Model| Domain Experts| Global     | No          | NN    | Data-Driven|
 
 
+
+#People 
+* Prof Lior Wolf
+
+
