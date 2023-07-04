@@ -1,6 +1,6 @@
 | ML  Pipeline  Stage                  | XAI  Method and  citation | Type of  Explanation               | Interpretable | Transparent | Data Type |   |    |   |
 | ------------------------------------ | ------------------------- | ---------------------------------- | ------------- | ----------- | --------- | - | -- | - |
-|                                      |                           |                                    |               |             | T         | I | Te | G |
+|                                      |                           |                                    |               |             | Tabular     | Image | Text | Graph |
 | Data  Collection                     | Counterfactual            | Instance Based                     | o             | o           | v         | v | v  | v |
 |                                      | Forward  Propogation      | Propagataion  Based                | o             | x           | v         | v | v  | v |
 | Feature  Engineering  and  Selection | Vanilla  Gradients        | Saliency Based                     | o             | o           | v         | v | v  | v |
